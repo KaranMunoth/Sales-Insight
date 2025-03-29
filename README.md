@@ -116,7 +116,8 @@ SELECT count(*) FROM sales.transactions WHERE sales.transactions.currency="USD";
 ## **Data Modeling**
 After cleaning and transforming the dataset, we structured it into a **data model** for seamless reporting.
 
-**(Add Screenshot of Data Model Here)**
+<img width="979" alt="image" src="https://github.com/user-attachments/assets/ddc87b58-cf6c-4569-9390-2239ae105ea8" />
+
 
 ---
 
@@ -151,12 +152,18 @@ Target Diff = [Profit Margin %]-'Profit Target1'[Profit Target Value]
 ## **Dashboard & Visualizations**
 
 ### **Power BI Dashboard Highlights**
-- **Real-time sales insights by region**
-- **Profit margin analysis**
-- **Comparison of sales trends over time**
-- **Impact of data-driven decisions on revenue growth**
+- **Key Findings**
+- **Profit Insights**
+- **Performance Insights**
 
-**(Add Screenshots of Power BI Dashboard Here)**
+
+<img width="997" alt="image" src="https://github.com/user-attachments/assets/d919ee69-bb5f-44f0-83e9-4de5e1a0501c" />
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/89a3b9a9-d1ce-4bb4-83ef-55918b2e1e8d" />
+
+<img width="994" alt="image" src="https://github.com/user-attachments/assets/205f43dc-a89f-4f67-8d2b-974801692ba8" />
+
+
 
 ---
 
