@@ -155,12 +155,12 @@ Target Diff = [Profit Margin %]-'Profit Target1'[Profit Target Value]
 - **Key Findings**
 - **Profit Insights**
 - **Performance Insights**
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/89a3b9a9-d1ce-4bb4-83ef-55918b2e1e8d" />
 
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/89a3b9a9-d1ce-4bb4-83ef-55918b2e1e8d" />
+![image](https://github.com/user-attachments/assets/9201cdb2-8445-44c9-a813-edc31c3fd1f9)
 
-<img width="994" alt="image" src="https://github.com/user-attachments/assets/205f43dc-a89f-4f67-8d2b-974801692ba8" />
+![image](https://github.com/user-attachments/assets/06db1e19-49ac-41af-afea-3b6df166e271)
 
+![image](https://github.com/user-attachments/assets/f7496049-5b85-4798-abcc-53ce7f3bbbea)
 
 
 ---
