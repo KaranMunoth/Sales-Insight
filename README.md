@@ -30,17 +30,13 @@ AIMS Grid is a project management framework consisting of four key components:
    - A 10% reduction in total business costs through better decision-making
    - Elimination of manual data collection, saving 20% of business time
 
-**(Add Flowchart of Project Execution Here)**
-
 ---
 
-## **Data Analysis using MySQL**
 
 ### **Data Import**
 1. The SQL database dump file (`db_dump.sql`) is used to import data into MySQL Workbench.
 2. Data is loaded into MySQL for further analysis.
 
-**(Add Screenshot of MySQL Data Import Here)**
 
 ### **Initial Data Exploration**
 - Checking for anomalies in the dataset:
@@ -94,7 +90,8 @@ WHERE sales.date.year=2020;
 1. **Connected MySQL database to Power BI**
 2. **Loaded data into Power BI** to establish relationships and form a star schema
 
-**(Add Screenshot of Star Schema in Power BI Here)**
+<img width="1091" alt="image" src="https://github.com/user-attachments/assets/b4300e3e-2bd7-4a87-8c2b-1ee4ee871cf7" />
+
 
 3. **Data Transformation using Power Query**
    - **Filtering Market Table**: Removed null and incorrect values
